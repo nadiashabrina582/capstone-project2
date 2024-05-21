@@ -20,6 +20,10 @@ body {
   }
 }
 
+.vh100{
+  height: 100vh;
+}
+
 .fit-background {
   height: 100vh;
 }
